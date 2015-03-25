@@ -21,13 +21,13 @@ tags:
 
 第二天早晨一开门，被眼前的景色惊艳到了！酒店就在海边，自带游泳池和码头；海上不断有小艇驶过，一派热闹的热带气息。
 
-<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4594.jpg?w=660&h=880" alt="View from hotel" style="width:600px">
+<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4594.jpg?w=660&h=880" alt="View from hotel" style="width:500px">
 
 从酒店checkout后直奔 San Juan 古城。San Juan 古城是西班牙人在十五世纪建立的据点，曾经被用做抵御海盗的军事要塞。半岛的边缘上有 Morro 城堡，半岛的内部是普通的居民区。居民区已经完全变成了旅游景点。
 
-<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4641.jpg?w=660&h=495" alt="El Morro" style="width:600px">
+<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4641.jpg?w=660&h=495" alt="El Morro" style="width:500px">
 
-<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4609.jpg?w=660&h=880" alt="San Juan Old City" style="width:600px">
+<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4609.jpg?w=660&h=880" alt="San Juan Old City" style="width:500px">
 
 
 ##第二天，El Yunque National Rainforest
