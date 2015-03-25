@@ -3,4 +3,4 @@ pygments: true
 permalink: /blog/:year/:month/:day/:title/
 auto: true
 paginate: 50
-paginate_path: "/_posts/page/:num"
+paginate_path: "/_posts/"
