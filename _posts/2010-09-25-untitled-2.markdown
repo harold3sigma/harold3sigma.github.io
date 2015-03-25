@@ -1,0 +1,16 @@
+---
+author: jagira
+date: '2010-09-25 07:34:00'
+layout: post
+slug: untitled-2
+status: publish
+title: Untitled
+wordpress_id: '92'
+tags:
+- random
+---
+
+**My logic is OS independent.**
+
+
+

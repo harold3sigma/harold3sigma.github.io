@@ -1,0 +1,16 @@
+---
+author: jagira
+date: '2011-02-14 12:21:00'
+layout: post
+slug: untitled
+status: publish
+title: Untitled
+wordpress_id: '62'
+tags:
+- random
+---
+
+*Rails' Engine = Django's App ?*
+
+
+
