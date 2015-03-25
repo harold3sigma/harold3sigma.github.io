@@ -1,12 +1,15 @@
 ---
 layout: default
-title: "About - Harold 3 Sigma"
+title: "About me - Harold 3 Sigma"
 ---
+Some quick facts:
 
-([Adhi - An Online Assessment Platform](http://adhi.in)).
+Apparently, Harold 3 Sigma is not my real name. 
 
-Some random info about me -
+I am currently a Master's Student at CMU. 
 
-I use HHKB pro2 keyboard
+I use HHKB pro2 keyboard.
+
+I built this blog to record my thoughts. 
 
 
