@@ -9,8 +9,6 @@ tags:
 - play
 ---
 
-#Puerto Rico
-
 ##出发
 
 二月初拿到intern offer之后便打算利用春假好好休息一下，弥补寒假没有出去玩的遗憾。当时正好有同学要去Puerto Rico，便一起去咯。
