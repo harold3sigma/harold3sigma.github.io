@@ -1,15 +1,19 @@
 ---
-layout: default
+layout: post
 title: "About me - Harold 3 Sigma"
 ---
-Some quick facts:
 
-Apparently, Harold 3 Sigma is not my real name. 
+很显然，Harold 3 Sigma并不是我的真名。为什么用 3 Sigma 这样一个奇怪的名字呢？那是因为在正态分布里，3 Sigma 之外的概率是 0.3%。我希望自己成为一个极好的人，而不是一个平庸的人。
 
-I am currently a Master's Student at CMU. 
+我喜欢简洁、优雅、强大的东西。此类物品的典例：iPhone 和 HHKB。
 
-I use HHKB pro2 keyboard.
+我是一个字体爱好者。最喜欢的中文字体是 华文仿宋，也就是你现在看到的字体。最喜欢的西文衬线体是 Callula，最喜欢的西文等宽体是Courier。
 
-I built this blog to record my thoughts. 
+我喜欢读书。哲学，军事，经济学，计算机，艺术，传记，小说都是我的菜。
+
+我建立这个博客是为了记录自己的想法。我不喜欢朋友圈、facebook、twitter等社交网络，因为有很多傻X充斥其中。
+
+如果你认出我来，请不要告诉我。
+
 
 
