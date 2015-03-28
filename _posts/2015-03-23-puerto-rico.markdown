@@ -21,7 +21,7 @@ tags:
 
 3.8号早晨一开门，就被眼前的景色惊艳到了。前一天晚上是半夜抵达酒店，并未仔细观察酒店周围的地理，以为就是在普通的居民区。而实际上酒店在海湾的岸边，自带游泳池和码头；海上不断有小艇驶过，一派热闹的热带气息。
 
-<img src="https://www.dropbox.com/s/4ks0zkxungnnkeq/original_g1kF_45340000c879118f.jpg?dl=0#" alt="El Morro" style="width:500px">
+<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4594.jpg" alt="El Morro" style="width:500px">
 
 从酒店结账后直奔 San Juan 古城。San Juan 古城是西班牙人在十五世纪建立的据点，现在已经成为 Puerto Rico 最负盛名的旅游景点。古城所在的半岛的边缘上有 Morro 城堡，曾是被用来抵御海盗的据点。城堡里有一座已经完全锈坏的炮台。从炮台腐蚀的程度可以看出海风之猛烈。
 
