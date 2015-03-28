@@ -27,8 +27,6 @@ tags:
 
 <img src="https://harold3sigma.files.wordpress.com/2015/03/img_4641.jpg?w=660&h=495" alt="El Morro" style="width:500px">
 
-<img src="https://harold3sigma.files.wordpress.com/2015/03/img_4609.jpg?w=660&h=880" alt="San Juan Old City" style="width:500px">
-
 ##第二天，El Yunque National Rainforest
 
 结账后直奔 El Yunque National Rainforest。El Yunque的中文翻译是『云盖』。这个翻译非常信达雅，因为El Yunque的主峰的确达到了云层的高度（1000+米），有云的时候，在远处望去，山峰仿佛戴了一顶云做的帽子。由于时间有限，我们并没有直接从山脚徒步，而是把车停到半山腰后再走trail。我们走了几条有名的trail：Lamia Trail，Big Tree Trail 以及 Mt. Britton Trail。第一条 trail 是沿着清澈溪流而下，直到抵达 Lamia 瀑布。路上可以看到溪流里戏水的美女。Big Tree Trail 的主题是热带雨林茂盛的树木。这条 trail 风景很赞，有高大的榕树，椰子树，各种蕨类植物和苔藓植物。走到半途的时候，遇到了阵雨。不过，由于雨林里植物茂盛，雨根本淋不下来。下午5点左右，通过 Mt. Britton Trail 登上 El Yunque 第三高的山峰（Britton Tower），体验了云雾缭绕的感觉。在山顶的塔上，同学给我拍了一张照片。由于背景是云雾缭绕，以及身后有长城般的城墙，同学戏称我去八达岭长城看雾霾 ;-)
