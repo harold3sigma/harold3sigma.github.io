@@ -2,4 +2,4 @@ markdown: rdiscount
 pygments: true
 permalink: /blog/:year/:month/:day/:title/
 auto: true
-paginate: 50
+paginate: 100
