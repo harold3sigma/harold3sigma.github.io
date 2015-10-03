@@ -1,3 +1,14 @@
+---
+author: Harold3Sigma
+date: '2015-10-03'
+layout: post
+slug: linkedlist
+status: publish
+title: LinkedList 总结
+tags:
+- linkedlist
+---
+
 # Linked List
 
 ## Reverse a Linked List
