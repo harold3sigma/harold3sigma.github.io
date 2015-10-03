@@ -59,6 +59,7 @@ public ListNode reverseList(ListNode head) {
 
 ### Solution 3: recursively reverse the list.
 The basic idea is to use a recursive helper. The helper takes the sublist after curr node as input, and  returns an array of ListNode. ret[0] is the head, while ret[1] is the tail of the reversed sublist. By this way, the last ListNode is passed through to the uppermost layer as ret[0].
+
 ```java
 public ListNode reverseList(ListNode head) {
     if (head == null || head.next == null) {
