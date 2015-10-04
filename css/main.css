@@ -1,6 +1,5 @@
 body {
-font-family:
-    STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
+    font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
     font-size: 18px;
     margin: 5% 20% 5% 20%;
     padding: 2% 5% 5% 5%;
@@ -10,47 +9,40 @@ font-family:
 }
 
 H1 {
-font-family: "Palatino Linotype"
-    , "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
 }
 
 H2 {
-font-family: "Palatino Linotype"
-    , "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin-bottom: 60px;
     margin-bottom: 40px;
     padding: 5px;
     border-bottom: 2px LightGrey solid;
     width: 98%;
     line-height: 150%;
-color:
-#666666;
+    color: #666666;
 }
 
 
 H3 {
-font-family: "Palatino Linotype"
-    , "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin-top: 40px;
     margin-bottom: 30px;
     border-bottom: 1px LightGrey solid;
     width: 98%;
     line-height: 150%;
-color:
-#666666;
+    color: #666666;
 }
 
 
 H4 {
-font-family: "Palatino Linotype"
-    , "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin-top: 40px;
     margin-bottom: 30px;
     border-bottom: 1px LightGrey solid;
     width: 98%;
     line-height: 150%;
-color:
-#666666;
+    color: #666666;
 }
 
 
@@ -67,13 +59,10 @@ blockquote {
 
 
 pre {
-font-family:
-    Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
+    font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
     font-size: 75%;
-border:
-    solid 1px lightgrey;
-background-color:
-    Ivory;
+    border: solid 1px lightgrey;
+    background-color: Ivory;
     padding: 5px;
     line-height: 130%;
     margin-left: 10px;
@@ -82,40 +71,31 @@ background-color:
 
 
 code {
-font-family:
-    Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
+    font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
     font-size: 90%;
 }
 
 
 a {
-text-decoration:
-    none;
-cursor:
-    crosshair;
+    text-decoration: none;
+    cursor: crosshair;
     border-bottom: 1px dashed Red;
     padding: 1px;
-color:
-    black;
+    color: black;
 }
 
 
-a:
-hover {
-background-color:
-    LightGrey;
+a:hover {
+	background-color: LightGrey;
 }
 
 
 img {
-display:
-    block;
+    display: block;
     box-shadow: 0 0 10px #555;
     border-radius: 6px;
-margin-left:
-    auto;
-margin-right:
-    auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     -webkit-box-shadow: 0 0 10px #555;
@@ -123,6 +103,5 @@ margin-right:
 
 
 hr {
-color:
-    LightGrey;
+    color: LightGrey;
 }
