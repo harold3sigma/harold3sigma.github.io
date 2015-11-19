@@ -1,6 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 body {
-    font-family: MingLiU, STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
-    font-size: 18px;
+    font-family: 'Open Sans', 'Lantinghei SC', MingLiU, STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
+    font-size: 14px;
     margin: 5% 20% 5% 20%;
     padding: 2% 5% 5% 5%;
     width: 50%;
